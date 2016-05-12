@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hillbilly ]]></title>
-        <description><![CDATA[Hillbilly ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[No Somos Inmortales]]></title>
+        <description><![CDATA[No Somos Inmortales]]></description>
+        <link>https://thegrid.ai/nosomosinmortales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 02:33:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 00:46:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nosomosinmortales/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc543c3-4f58-4ed3-991d-999844a51fcf.png">]]></description>
+            <link>https://thegrid.ai/nosomosinmortales/5-lecciones-de-liderazgo-de-rick-grimes/index.html</link>
+            <guid isPermaLink="false">c2b5b916-68b4-4950-a6d7-db5f37ffd84f</guid>
+            <pubDate>Thu, 12 May 2016 00:46:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I shall be released. </p>]]></description>
-            <link>undefined2249be80-c48e-4df4-80c2-91dacb2ec764/index.html</link>
+            <link>https://thegrid.ai/nosomosinmortales/2249be80-c48e-4df4-80c2-91dacb2ec764/index.html</link>
             <guid isPermaLink="false">2249be80-c48e-4df4-80c2-91dacb2ec764</guid>
             <pubDate>Thu, 14 Apr 2016 02:33:29 GMT</pubDate>
         </item>
