@@ -1,7 +1,7 @@
-name: 'Hillbilly '
+name: No Somos Inmortales
 favicon: null
-layout_spectrum: 0.760019252076745
-typography_spectrum: 0.22221740102395415
+layout_spectrum: 0.75049
+typography_spectrum: 0.50793
 title: No Somos Inmortales
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7229291233234107
-  lightness: 0.23029675125144422
-  saturation: 0.2490671395789832
+    - '#fefefe'
+    - '#d34432'
+    - '#dcb186'
+    - '#1a181d'
+    - '#4b6e72'
+  brandStrength: 0.875
+  lightness: 0.375
+  saturation: 0.375
   rhythmicContrast: 0.5061771292239428
 purpose: []
